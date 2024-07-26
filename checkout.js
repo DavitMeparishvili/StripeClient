@@ -1,4 +1,3 @@
-// This is your test secret API key.
 const stripe = Stripe(
   "pk_test_51PgJWHK4fDeIIHWZmno0otYwwjWcWtxZO7yK2agdk0YQN2aDssiyrXEyIjsfYRXPd0sq9PpVM5hUWCTBH9mM9XGs00WDDK27VM"
 );
