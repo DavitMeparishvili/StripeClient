@@ -12,7 +12,8 @@ async function initialize() {
       {
         method: "POST",
         body: JSON.stringify({
-          email: "mefarishvilidavit@gmail.com",
+          email: "admin@gmail.com",
+          type: "Monthly",
         }),
       }
     );
